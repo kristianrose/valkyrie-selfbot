@@ -17,7 +17,6 @@ valkyrie.user.setActivity("O escolhido", {type: "STREAMING", url: "https://www.t
 
 setTitle('Valkyrie | Carregando');
 
-});
 //Registro na console
     console.log('')
     console.log(`                     ██╗   ██╗ █████╗ ██╗     ██╗  ██╗██╗   ██╗██████╗ ██╗███████╗                     `. white)
