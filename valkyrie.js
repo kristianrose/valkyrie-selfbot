@@ -32,7 +32,7 @@ setTitle('Valkyrie | Carregando');
     console.log(`                   │ ${valkyrie.user.username} Está pronto a nadar no reino das trevas │                      `. white)
     console.log(`                   └───────────────────────────────────────────────────────────────────┘                      `. white) 
     console.log(`                         Caso Divulgue a source deste SELF sofrerá as consequência.                           `. black) 
-    setTitle("Valyrie Selfbot")
+    setTitle("Valkyrie Selfbot")
     
 });
 
